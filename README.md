@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on projects that involve integrating machine learning into web applications, or building web platforms for data-driven applications.
 
 📫 How to reach me:
-   - Email: your-email@example.com
+   - Email: bzsil8969@gmail.com
    - LinkedIn: www.linkedin.com/in/basil8989
    - GitHub: https://github.com/basil8989
 
